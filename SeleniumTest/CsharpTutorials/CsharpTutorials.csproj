@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AccessSpecifier\Program1.cs" />
+    <Compile Remove="AccessSpecifier\Program2.cs" />
+    <Compile Remove="AccessSpecifier\Program3.cs" />
+    <Compile Remove="Constructors\Class1.cs" />
+    <Compile Remove="Constructors\CopyConstructorclass.cs" />
+    <Compile Remove="Constructors\staticCons.cs" />
+    <Compile Remove="variables\First.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="AccessSpecifier\Program1.cs" />
+    <None Include="AccessSpecifier\Program2.cs" />
+    <None Include="AccessSpecifier\Program3.cs" />
+    <None Include="Constructors\Class1.cs" />
+    <None Include="Constructors\CopyConstructorclass.cs" />
+    <None Include="Constructors\staticCons.cs" />
+    <None Include="variables\First.cs" />
+  </ItemGroup>
+
+</Project>

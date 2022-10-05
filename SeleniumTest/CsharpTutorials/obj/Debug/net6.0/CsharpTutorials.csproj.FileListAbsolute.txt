@@ -1,0 +1,15 @@
+C:\Users\ABHISHEK KUMAR\source\repos\SeleniumTest\CsharpTutorials\bin\Debug\net6.0\CsharpTutorials.exe
+C:\Users\ABHISHEK KUMAR\source\repos\SeleniumTest\CsharpTutorials\bin\Debug\net6.0\CsharpTutorials.deps.json
+C:\Users\ABHISHEK KUMAR\source\repos\SeleniumTest\CsharpTutorials\bin\Debug\net6.0\CsharpTutorials.runtimeconfig.json
+C:\Users\ABHISHEK KUMAR\source\repos\SeleniumTest\CsharpTutorials\bin\Debug\net6.0\CsharpTutorials.dll
+C:\Users\ABHISHEK KUMAR\source\repos\SeleniumTest\CsharpTutorials\bin\Debug\net6.0\CsharpTutorials.pdb
+C:\Users\ABHISHEK KUMAR\source\repos\SeleniumTest\CsharpTutorials\obj\Debug\net6.0\CsharpTutorials.csproj.AssemblyReference.cache
+C:\Users\ABHISHEK KUMAR\source\repos\SeleniumTest\CsharpTutorials\obj\Debug\net6.0\CsharpTutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABHISHEK KUMAR\source\repos\SeleniumTest\CsharpTutorials\obj\Debug\net6.0\CsharpTutorials.AssemblyInfoInputs.cache
+C:\Users\ABHISHEK KUMAR\source\repos\SeleniumTest\CsharpTutorials\obj\Debug\net6.0\CsharpTutorials.AssemblyInfo.cs
+C:\Users\ABHISHEK KUMAR\source\repos\SeleniumTest\CsharpTutorials\obj\Debug\net6.0\CsharpTutorials.csproj.CoreCompileInputs.cache
+C:\Users\ABHISHEK KUMAR\source\repos\SeleniumTest\CsharpTutorials\obj\Debug\net6.0\CsharpTutorials.dll
+C:\Users\ABHISHEK KUMAR\source\repos\SeleniumTest\CsharpTutorials\obj\Debug\net6.0\refint\CsharpTutorials.dll
+C:\Users\ABHISHEK KUMAR\source\repos\SeleniumTest\CsharpTutorials\obj\Debug\net6.0\CsharpTutorials.pdb
+C:\Users\ABHISHEK KUMAR\source\repos\SeleniumTest\CsharpTutorials\obj\Debug\net6.0\CsharpTutorials.genruntimeconfig.cache
+C:\Users\ABHISHEK KUMAR\source\repos\SeleniumTest\CsharpTutorials\obj\Debug\net6.0\ref\CsharpTutorials.dll
